@@ -6,4 +6,4 @@ if (amount<10){
     console.log('large number')
 }
 
-console.log(`hello world`)
+console.log(`hello world o`)
