@@ -1,0 +1,10 @@
+// Modules - Encapsulated Code (only share minimum)
+const {john,peter}=require('./3-names')
+
+const sayHie=require('./4-utils')
+const data=require('./5-alternative')
+console.log(data)
+require('./6-mind-grenade')
+sayHie('Peter')
+sayHie(john)
+sayHie(peter)
